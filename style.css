@@ -16,16 +16,17 @@ body {
 
 .container {
 
-    background-color: hsl(0, 0%, 100%);
-    max-width: 360px;
-    border-radius: 17px;
+    max-width: 360px; 
     margin: 0 auto;
 
 }
 
 .qr_code_card {
 
+    border-radius: 17px;
+    background-color: hsl(0, 0%, 100%);
     padding: 18px;
+    margin: 0 1em;
 
 }
 
