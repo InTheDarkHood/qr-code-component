@@ -11,6 +11,29 @@ body {
 
 }
 
+.text_card {
+
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.text_card h3 {
+
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+
+}
+
+.text_card p {
+
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+
+}
+
 .attribution { 
 
     font-size: 11px; 
