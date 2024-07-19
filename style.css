@@ -46,10 +46,11 @@ body {
 
 }
 
-.text_card h3 {
+.text_card h2 {
 
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    padding-bottom: 15px;
 
 }
 
